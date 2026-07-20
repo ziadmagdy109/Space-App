@@ -1,4 +1,4 @@
-# 🚀 Space Explorer
+# 🚀 Space App
 
 A modern Flutter application that explores the beauty of our solar system with a clean and interactive user interface.
 
@@ -8,9 +8,9 @@ The app provides an engaging experience for discovering planets through smooth a
 
 # 📱 Preview
 
-<p align="center">
-  <img src="screenshots/cover.png" alt="Space Explorer Cover">
-</p>
+| Onboarding | Home | Details |
+|------------|------|---------|
+| <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/66fa2625-cffb-4a66-8e89-08a374dfe765" /> | <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/8f4923c1-380b-4ccb-9764-6a193b73ac3f" /> | <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/0feba6c3-e19d-4068-ac31-a828ed48d2da" /> |
 
 ---
 
@@ -29,14 +29,6 @@ https://github.com/user-attachments/assets/ec73767f-d0d4-44e8-8aa7-6a6950050994
 - ⚡ Smooth Animations
 - ♻️ Reusable Widgets
 - 💙 Flutter Best Practices
-
----
-
-# 📸 Screenshots
-
-| Onboarding | Home | Details |
-|------------|------|---------|
-| <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/66fa2625-cffb-4a66-8e89-08a374dfe765" /> | <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/8f4923c1-380b-4ccb-9764-6a193b73ac3f" /> | <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/0feba6c3-e19d-4068-ac31-a828ed48d2da" /> |
 
 ---
 
